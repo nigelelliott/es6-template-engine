@@ -1,0 +1,28 @@
+{
+  "name": "es6-template-engine",
+  "version": "1.0.0",
+  "description": "A simple ES6 based Express template engine",
+  "main": "main/index.js",
+  "scripts": {
+    "start": "export NODE_PATH=. ; node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigelelliott/es6-template-engine.git"
+  },
+  "keywords": [
+    "express",
+    "template",
+    "es6"
+  ],
+  "author": "Nigel Elliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nigelelliott/es6-template-engine/issues"
+  },
+  "homepage": "https://github.com/nigelelliott/es6-template-engine#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
