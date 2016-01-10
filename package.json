@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/nigelelliott/es6-template-engine#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "4.13.3"
   }
 }
