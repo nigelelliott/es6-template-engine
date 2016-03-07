@@ -6,6 +6,7 @@ A simple ES6 based Express template engine
 1. Register the template engine with your express app:
     
         const express = require('express');
+        const TemplateEngine = require('main/lib/template-engine');
         const app = express();
     
         app.engine('js', TemplateEngine);
